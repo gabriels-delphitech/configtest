@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "type": "3dmodel",
+    "srcURL":"https://testunityfiles.s3.ca-central-1.amazonaws.com/BoxVertexColors.gltf",
+    "clickable": false,
+    "openTabURL": "https://jsonplaceholder.typicode.com/posts"
+  }
+]
