@@ -16,7 +16,7 @@
   {
     "id":2,
     "type":"3dmodel",
-    "srcURL":"https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Duck/glTF-Binary/Duck.glb",
+    "srcURL":"https://testunityfiles.s3.ca-central-1.amazonaws.com/BoxVertexColors.gltf",
     "clickable":true,
     "openTabURL":"https://www.artstation.com/artwork/KerOAr"
   }
