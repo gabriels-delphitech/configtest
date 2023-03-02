@@ -12,12 +12,12 @@
   {
     "id":1,
     "type":"video",
-    "srcURL":"https://delphisoftware.github.io/templateworldvideos/younggirlreading.mp4",
+    "srcURL":"https://delphisoftware.github.io/templateworldvideos/TheVoyageOfLife.mp4",
     "clickable":false,
     "openTabURL":"",
-    "headerText":{"title":"Young Girl Reading",
+    "headerText":{"title":"The Voyage of Life",
                   "size":22,
-                  "colour":{"r":1.0,"g":0.1,"b":0.2,"a":1.0}}
+                  "colour":{"r":1.0,"g":0.1,"b":1.0,"a":1.0}}
   },
   {
     "id":2,
