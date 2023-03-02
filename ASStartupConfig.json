@@ -9,11 +9,11 @@
   },
   {
     "id":1,
-    "type":"image",
+    "type":"none",
     "srcURL":"https://cdna.artstation.com/p/assets/images/images/060/064/770/large/a_pai-01.jpg?1677743470",
     "clickable":false,
     "openTabURL":"",
-    "title":""
+    "title":"TextYes AssetNo"
   },
   {
     "id":2,
@@ -21,6 +21,6 @@
     "srcURL":"https://testunityfiles.s3.ca-central-1.amazonaws.com/BoxVertexColors.gltf",
     "clickable":true,
     "openTabURL":"https://www.artstation.com/artwork/KerOAr",
-    "title":"The Cube"
+    "title":""
   }
 ]
