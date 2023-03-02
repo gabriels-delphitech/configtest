@@ -7,7 +7,7 @@
     "openTabURL":"https://jsonplaceholder.typicode.com/posts",
     "headerText":{"title":"Los Pollos Hermanos Manager",
                   "size":26,
-                  "colour":{"r":1.0,"g":0.1,"b":0.2,"a":1.0}}
+                  "colour":{"r":1.0,"g":0.7,"b":0.2,"a":1.0}}
   },
   {
     "id":1,
@@ -15,7 +15,7 @@
     "srcURL":"https://cdna.artstation.com/p/assets/images/images/060/064/770/large/a_pai-01.jpg?1677743470",
     "clickable":false,
     "openTabURL":"",
-    "headerText":{"title":"TextYesAssetNo",
+    "headerText":{"title":"",
                   "size":36,
                   "colour":{"r":1.0,"g":0.1,"b":0.2,"a":1.0}}
   },
