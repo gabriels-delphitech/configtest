@@ -11,12 +11,12 @@
   },
   {
     "id":1,
-    "type":"none",
-    "srcURL":"https://cdna.artstation.com/p/assets/images/images/060/064/770/large/a_pai-01.jpg?1677743470",
+    "type":"video",
+    "srcURL":"https://delphisoftware.github.io/templateworldvideos/younggirlreading.mp4",
     "clickable":false,
     "openTabURL":"",
-    "headerText":{"title":"",
-                  "size":36,
+    "headerText":{"title":"Young Girl Reading",
+                  "size":22,
                   "colour":{"r":1.0,"g":0.1,"b":0.2,"a":1.0}}
   },
   {
