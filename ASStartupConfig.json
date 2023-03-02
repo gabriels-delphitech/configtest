@@ -8,10 +8,10 @@
   },
   {
     "id":1,
-    "type":null,
-    "srcURL":null,
-    "clickable":null,
-    "openTabURL":null
+    "type":"none",
+    "srcURL":"",
+    "clickable":false,
+    "openTabURL":""
   },
   {
     "id":2,
