@@ -7,7 +7,7 @@
     "openTabURL":"https://jsonplaceholder.typicode.com/posts",
     "headerText":{"title":"Los Pollos Hermanos Manager",
                   "size":26,
-                  "colour":{"r":1.0,"g":0.1,"b":0.2,"a":1}
+                  "colour":{"r":1.0,"g":0.1,"b":0.2,"a":1.0}
   },
   {
     "id":1,
@@ -17,7 +17,7 @@
     "openTabURL":"",
     "headerText":{"title":"TextYesAssetNo",
                   "size":36,
-                  "colour":{"r":1.0,"g":0.1,"b":0.2,"a":1}
+                  "colour":{"r":1.0,"g":0.1,"b":0.2,"a":1.0}
   },
   {
     "id":2,
