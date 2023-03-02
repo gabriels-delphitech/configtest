@@ -8,8 +8,8 @@
   },
   {
     "id":1,
-    "type":"none",
-    "srcURL":"",
+    "type":"image",
+    "srcURL":"https://cdna.artstation.com/p/assets/images/images/060/064/770/large/a_pai-01.jpg?1677743470",
     "clickable":false,
     "openTabURL":""
   },
@@ -18,6 +18,6 @@
     "type":"3dmodel",
     "srcURL":"https://testunityfiles.s3.ca-central-1.amazonaws.com/BoxVertexColors.gltf",
     "clickable":true,
-    "openTabURL":"https://www.w3schools.com/js/js_json_datatypes.asp"
+    "openTabURL":"https://www.artstation.com/artwork/KerOAr"
   }
 ]
