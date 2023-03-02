@@ -1,7 +1,7 @@
 [
   {
-    "id": 0,
-    "type": "image",
+    "id":0,
+    "type":"image",
     "srcURL":"https://testunityfiles.s3.ca-central-1.amazonaws.com/BCS_S3_GusFringe.jpg",
     "clickable":false,
     "openTabURL":"https://jsonplaceholder.typicode.com/posts"
