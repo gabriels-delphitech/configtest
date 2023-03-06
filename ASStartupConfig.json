@@ -7,7 +7,8 @@
     "openTabURL":"https://jsonplaceholder.typicode.com/posts",
     "headerText":{"title":"Los Pollos Hermanos Manager",
                   "size":26,
-                  "colour":{"r":1.0,"g":0.7,"b":0.2,"a":1.0}}
+                  "colour":{"r":1.0,"g":0.7,"b":0.2,"a":1.0}},
+    "xform":null
   },
   {
     "id":1,
@@ -17,7 +18,10 @@
     "openTabURL":"",
     "headerText":{"title":"The Voyage of Life",
                   "size":22,
-                  "colour":{"r":1.0,"g":0.1,"b":1.0,"a":1.0}}
+                  "colour":{"r":1.0,"g":0.1,"b":1.0,"a":1.0}},
+    "xform":{"pos":{"x":0,"y":5,"z":0},
+             "rot":{"x":0,"y":0,"z":0},
+             "scale":{"x":0,"y":0,"z":0}}
   },
   {
     "id":2,
@@ -25,6 +29,9 @@
     "srcURL":"https://testunityfiles.s3.ca-central-1.amazonaws.com/BoxVertexColors.gltf",
     "clickable":true,
     "openTabURL":"https://www.artstation.com/artwork/KerOAr",
-    "headerText":null
+    "headerText":null,
+    "xform":{"pos":{"x":0,"y":-3,"z":0},
+             "rot":{"x":45,"y":45,"z":45},
+             "scale":{"x":1,"y":3,"z":0}}
   }
 ]
