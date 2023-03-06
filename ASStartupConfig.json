@@ -19,7 +19,7 @@
     "headerText":{"title":"The Voyage of Life",
                   "size":22,
                   "colour":{"r":1.0,"g":0.1,"b":1.0,"a":1.0}},
-    "xform":{"pos":{"x":0,"y":5,"z":0},
+    "xform":{"pos":{"x":0,"y":10,"z":0},
              "rot":{"x":0,"y":0,"z":0},
              "scale":{"x":0,"y":0,"z":0}}
   },
@@ -32,6 +32,6 @@
     "headerText":null,
     "xform":{"pos":{"x":0,"y":-3,"z":0},
              "rot":{"x":45,"y":45,"z":45},
-             "scale":{"x":1,"y":3,"z":0}}
+             "scale":{"x":100,"y":300,"z":0}}
   }
 ]
