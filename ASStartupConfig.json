@@ -8,7 +8,9 @@
     "headerText":{"title":"VRCity Website",
                   "size":26,
                   "colour":{"r":0.3,"g":0.3,"b":1,"a":1.0}},
-    "xform":null
+    "xform":{"pos":{"x":0,"y":0,"z":0},
+             "rot":{"x":0,"y":0,"z":0},
+             "scale":{"x":5,"y":5,"z":5}}
   },
   {
     "id":1,
