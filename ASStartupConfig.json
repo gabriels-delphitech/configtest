@@ -2,12 +2,12 @@
   {
     "id":0,
     "type":"image",
-    "srcURL":"https://testunityfiles.s3.ca-central-1.amazonaws.com/BCS_S3_GusFringe.jpg",
+    "srcURL":"https://vrcity.ca/wp-content/uploads/2022/04/vr-city-logo.png",
     "clickable":true,
-    "openTabURL":"https://jsonplaceholder.typicode.com/posts",
-    "headerText":{"title":"Los Pollos Hermanos Manager",
+    "openTabURL":"https://vrcity.ca/",
+    "headerText":{"title":"VRCity Website",
                   "size":26,
-                  "colour":{"r":1.0,"g":0.7,"b":0.2,"a":1.0}},
+                  "colour":{"r":0.3,"g":0.3,"b":1,"a":1.0}},
     "xform":null
   },
   {
@@ -28,7 +28,7 @@
     "type":"3dmodel",
     "srcURL":"https://testunityfiles.s3.ca-central-1.amazonaws.com/BoxVertexColors.gltf",
     "clickable":true,
-    "openTabURL":"https://www.artstation.com/artwork/KerOAr",
+    "openTabURL":"https://delphitechcorp.com/",
     "headerText":null,
     "xform":{"pos":{"x":0,"y":-3,"z":0},
              "rot":{"x":45,"y":45,"z":45},
