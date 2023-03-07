@@ -2,7 +2,7 @@
   {
     "id":0,
     "type":"image",
-    "srcURL":"https://vrcity.ca/wp-content/uploads/2022/04/vr-city-logo.png",
+    "srcURL":"https://raw.githubusercontent.com/DelphiSoftware/templateworldvideos/main/CLASSROOM_2_backwall_link_10_42386_vr_city_vert_rgb.png",
     "clickable":true,
     "openTabURL":"https://vrcity.ca/",
     "headerText":{"title":"VRCity Website",
